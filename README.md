@@ -14,13 +14,11 @@
 
 - 通过对旋转后的成分矩阵分析，剔除小因子，可以看出，三个因子**基本**集中于学生能力培养、学生教学满意度和教师教学理念与投入度方面。
 
-  <img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fr0m6ktzmij30ca0ty76s.jpg" style="zoom:30%" />
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1fr0nknty1uj30c20tutb7.jpg)
 
 - 因子分析后，通过内部一致性系数$Cronbach's\;\alpha$来考察各个因子的信度。
 
   调查问卷的整体的系数值为0.917。其中，学生能力培养、学生教学满意度和教师教学理念与投入度的分别为0.955，0.955，0.743。说明问卷具有较好的信度。
-
-  
 
   <img src="https://ws2.sinaimg.cn/large/006tKfTcgy1fr0mkdw3i6j30ya0nqqfq.jpg" style="zoom:40%"/>
 1. 调查问卷

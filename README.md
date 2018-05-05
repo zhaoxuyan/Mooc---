@@ -13,7 +13,7 @@
   <img src="https://ws2.sinaimg.cn/large/006tKfTcgy1fr0m3d4a01j30ng0sun1d.jpg" style="zoom:50%" />
 
 - 通过对旋转后的成分矩阵分析，剔除小因子，可以看出，三个因子**基本**集中于学生能力培养、学生教学满意度和教师教学理念与投入度方面。
-  <img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fr0m6ktzmij30ca0ty76s.jpg" style="zoom:50%"/>
+  <img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fr0m6ktzmij30ca0ty76s.jpg" style="zoom:50%" />
 
 - 因子分析后，通过内部一致性系数$Cronbach's\;\alpha$来考察各个因子的信度。
 

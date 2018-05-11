@@ -10,11 +10,11 @@
  	由上图可知，KMO为0.849，Bartlett's球形检验卡方值为669.750，p<0.001，达到显著，数据适合因子分			  析。
 
 - 采用主成分分析法提取因子，采用极大方差法(Varimax)提取因子负荷矩阵，因子提取的特征值大于0.6，共提取三个因子，初始值累积贡献率大于80%，满足学生问卷的特征分析。
-  <img src="https://ws2.sinaimg.cn/large/006tKfTcgy1fr0m3d4a01j30ng0sun1d.jpg" width="400px" />
+<img src="https://ws2.sinaimg.cn/large/006tKfTcgy1fr0m3d4a01j30ng0sun1d.jpg" width="400px" />
 
 - 通过对旋转后的成分矩阵分析，剔除小因子，可以看出，三个因子**基本**集中于学生能力培养、学生教学满意度和教师教学理念与投入度方面。
 
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1fr0nknty1uj30c20tutb7.jpg)
+<img src="https://ws1.sinaimg.cn/large/006tKfTcgy1fr0nknty1uj30c20tutb7.jpg" width="400px" />
 
 - 因子分析后，通过内部一致性系数$Cronbach's\;\alpha$来考察各个因子的信度。
 

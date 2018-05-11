@@ -5,7 +5,7 @@
 - KMO统计量是取值在0和1之间。当所有变量间的简单相关系数平方和远远大于偏相关系数平方和时，KMO值越接近于1，意味着变量间的相关性越强，原有变量越适合作因子分析；当所有变量间的简单相关系数平方和接近0时，KMO值越接近于0,意味着变量间的相关性越弱，原有变量越不适合作因子分析。Kaiser给出了常用的kmo度量标准: 0.9以上表示非常适合;0.8表示适合;0.7表示一般;0.6表示不太适合;0.5以下表示极不适合。
 
 
-<img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fr0m85vuehj30g406wt9m.jpg" width="600px" />
+<img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fr0m85vuehj30g406wt9m.jpg" width="300px" />
 
  	由上图可知，KMO为0.849，Bartlett's球形检验卡方值为669.750，p<0.001，达到显著，数据适合因子分			  析。
 
@@ -14,7 +14,7 @@
 
 - 通过对旋转后的成分矩阵分析，剔除小因子，可以看出，三个因子**基本**集中于学生能力培养、学生教学满意度和教师教学理念与投入度方面。
 
-<img src="https://ws1.sinaimg.cn/large/006tKfTcgy1fr0nknty1uj30c20tutb7.jpg" width="400px" />
+<img src="https://ws1.sinaimg.cn/large/006tKfTcgy1fr0nknty1uj30c20tutb7.jpg" width="200px" />
 
 - 因子分析后，通过内部一致性系数$Cronbach's\;\alpha$来考察各个因子的信度。
 
